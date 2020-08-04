@@ -7,16 +7,9 @@ def speak_to_grandma
     puts "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
-  end-of-input
+  end
   
-def speak_to_grandma
-  
-end
-    
-def speak_to_grandma
- if == .downcase
-   puts "HUH?! SPEAK UP, SONNY!"
- elsif == .upcase
+
     
    
    
